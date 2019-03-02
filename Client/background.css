@@ -1,0 +1,8 @@
+/**
+    *
+    * Set a background for GUI
+    */
+
+.root{
+    -fx-background-image: url(background.jpg);
+}
