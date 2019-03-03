@@ -1,8 +1,7 @@
 # COMP90015-Distributed-System-Project2-2018S2
+This project is about designing a Scrabble Game which allows multi-players to play at the same time and one winner will be ultimately got at the end of the game. This game is actually a word game in which each player will take turns to add one character at a time and get a score based on the word they generate. A client-server architecture is chosen which allows multiple users to do a series of operations.
 
 <p align="center">
-  
-This project is about designing a Scrabble Game which allows multi-players to play at the same time and one winner will be ultimately got at the end of the game. This game is actually a word game in which each player will take turns to add one character at a time and get a score based on the word they generate. A client-server architecture is chosen which allows multiple users to do a series of operations.
   
   <img width="600" src="https://github.com/mxue2/COMP90015-Distributed-System-Project2-2018S2/blob/master/images/Picture4.png">
 </p >
